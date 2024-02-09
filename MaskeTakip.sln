@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaround", "Workaround\Workaround.csproj", "{AF396420-3500-4371-84B7-17D8A3944DD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{767DD039-53AC-42EA-A0AE-1AF8B1CD275E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{8BFA8650-7124-4942-B7FA-3A2A2651F829}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF396420-3500-4371-84B7-17D8A3944DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF396420-3500-4371-84B7-17D8A3944DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF396420-3500-4371-84B7-17D8A3944DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF396420-3500-4371-84B7-17D8A3944DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{767DD039-53AC-42EA-A0AE-1AF8B1CD275E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767DD039-53AC-42EA-A0AE-1AF8B1CD275E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767DD039-53AC-42EA-A0AE-1AF8B1CD275E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767DD039-53AC-42EA-A0AE-1AF8B1CD275E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BFA8650-7124-4942-B7FA-3A2A2651F829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BFA8650-7124-4942-B7FA-3A2A2651F829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BFA8650-7124-4942-B7FA-3A2A2651F829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BFA8650-7124-4942-B7FA-3A2A2651F829}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F4ACD5C-9799-4A2B-A595-53084D4F9FD6}
+	EndGlobalSection
+EndGlobal
